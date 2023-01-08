@@ -2,8 +2,9 @@
   "name": "pulsar-theme",
   "displayName": "Pulsar Theme",
   "description": "Pulsar inspired pleasant dark theme for Visual Studio Code.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Damian Mrowiec",
+  "publisher": "dmrowiec-pl",
   "license": "MIT",
   "repository": {
     "type": "git",
