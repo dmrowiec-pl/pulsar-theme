@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+  <language name="English" id="en">
+    <reading>true</reading>
+    <writing>true</writing>
+    <speaking>true</speaking>
+    <listening>true</listening>
+  </language>
+  <language name="Spanish" id="es">
+    <reading>true</reading>
+    <writing>true</writing>
+    <speaking>true</speaking>
+    <listening>true</listening>
+  </language>
+  <language name="Mandarin" id="zh">
+    <reading>true</reading>
+    <writing>true</writing>
+    <speaking>true</speaking>
+    <listening>true</listening>
+  </language>
+</languages>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+  <language name="English" id="en">
+    <capabilities>
+      <reading level="advanced"/>
+      <writing level="advanced"/>
+      <speaking level="native"/>
+      <listening level="native"/>
+    </capabilities>
+  </language>
+  <language name="Spanish" id="es">
+    <capabilities>
+      <reading level="intermediate"/>
+      <writing level="intermediate"/>
+      <speaking level="intermediate"/>
+      <listening level="intermediate"/>
+    </capabilities>
+  </language>
+  <language name="Mandarin" id="zh">
+    <capabilities>
+      <reading level="beginner"/>
+      <writing level="beginner"/>
+      <speaking level="beginner"/>
+      <listening level="beginner"/>
+    </capabilities>
+  </language>
+</languages>
+
+<note>
+<to>Tove</to>
+<from>Jani</from>
+<heading>Reminder</heading>
+<body>Don't forget me this weekend!</body>
+</note>
+

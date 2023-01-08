@@ -1,0 +1,15 @@
+# Pulsar Theme syntax highlight color palette
+
+* WHITE - #C5C8C6 (default, variable, function, method)
+* ORANGE - #CE6700 (keyword)
+* YELLOW - #FFC66D (declaration)
+* GREEN - #9AA83A (string)
+* GREEN BRIGHT - #A5C261 (docstring, regexp)
+* GREEN-GRAY - #A8C2B0 (function and method argument)
+* PALE BLUE - #99B2D8 (class, interface, entity)
+* PALE ORANGE - #E4A05C (boolean, enum member, docstring keyword)
+* GRAY - #9A9B99 (comment)
+* PALE PURPLE - #B2A3BD (built-in type)
+* BLUE - #6089B4 (number)
+* RED - #DE535F (decorator, self, this, super)
+* YELLOW-GOLD - #D0B344 (namespace, module)

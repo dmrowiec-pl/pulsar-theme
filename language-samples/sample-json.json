@@ -1,0 +1,12 @@
+{
+  "string": "Hello, world!",
+  "number": 42,
+  "boolean": true,
+  "null": null,
+  "array": [1, 2, 3, 4, 5],
+  "object": {
+    "name": "John",
+    "age": 30,
+    "hobbies": ["reading", "music", "sports"]
+  }
+}

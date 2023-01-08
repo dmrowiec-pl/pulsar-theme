@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>All Language Capabilities</title>
+  </head>
+  <body>
+    <h1>All Language Capabilities</h1>
+    <p>
+      This HTML document includes a variety of elements and attributes, such as
+      headings, paragraphs, lists, links, images, and more.
+    </p>
+    <ul>
+      <li>Strings</li>
+      <li>Numbers</li>
+      <li>Booleans</li>
+      <li>Arrays</li>
+      <li>Objects</li>
+    </ul>
+    <a href="https://www.w3.org/" target="_blank">
+      <img src="w3c-logo.png" alt="W3C logo" />
+    </a>
+  </body>
+</html>
+
+<ng-container *ngIf="product" [abcd]="false">
+  <div class="title">Product<span *ngIf="product.id"> (#{{ product.id }})</span></div>
+  <div class="property"><b>Name:</b> {{ product.name }}</div>
+  <div class="property"><b>Description:</b> {{ product.description }}</div>
+  <div class="property"><b>Price:</b> {{ product.price | currency : 'PLN' : 'symbol' }}</div>
+  <div class="property" *ngIf="isLoggedIn">
+    <a [routerLink]="['/admin', 'products', 'edit', product.id]">
+      <button class="btn btn-success">Edit product</button>
+      <div>{{ true }}</div>
+    </a>
+  </div>
+</ng-container>
+
+<li *ngFor="let user of users; index as i; first as isFirst">
+  {{i}}/{{users.length}}. {{user}} <span *ngIf="isFirst">default</span>
+</li>
+
