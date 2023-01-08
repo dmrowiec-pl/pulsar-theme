@@ -1,6 +1,12 @@
 # Changelog
 
-## [1.0.2] - 2023-01-09
+## [1.0.3] - 2023-01-08
+
+### Fixed
+
+- Supported vscode version
+
+## [1.0.2] - 2023-01-08
 
 ### Added
 
