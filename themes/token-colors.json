@@ -847,6 +847,8 @@
       "comment.documentation": "#A5C261",
       "keyword.documentation": "#E4A05C",
 
+      "*.deprecated": { "strikethrough": true },
+
       // Language specific
 
       // Python
@@ -859,15 +861,16 @@
       "macroBang:rust": { "foreground": "#C5C8C6", "italic": true },
 
       // C++
+      "function:cpp": "#FFC66D", // C++ does not support declaration modifier
+      "method:cpp": "#FFC66D", // C++ does not support declaration modifier
       "operatorOverload:cpp": "#C5C8C6",
       "memberOperatorOverload:cpp": "#C5C8C6",
 
       // C#
+      "member:csharp": "#FFC66D", // C# does not support declaration modifier
       "xmlDocCommentText": "#A5C261",
       "xmlDocCommentDelimiter": "#A5C261",
       "xmlDocCommentName": "#E4A05C",
-      "xmlDocCommentAttributeName": "#FFC66D",
-
-      "*.deprecated": { "strikethrough": true }
+      "xmlDocCommentAttributeName": "#FFC66D"
   }
 }
