@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.5] - 2023-01-19
+
+### Added
+
+- Colors for bracket pairs highlighting when bracket pair colorization is enabled
+
 ## [1.0.4] - 2023-01-10
 
 ### Changed
