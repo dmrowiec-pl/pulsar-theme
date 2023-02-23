@@ -18,6 +18,8 @@
         "editorLineNumber.activeForeground": "#949494",
         "editor.wordHighlightBackground": "#4747a180",
         "editor.wordHighlightStrongBackground": "#6767ce80",
+        "editorInlayHint.background":"#00000000",
+        "editorInlayHint.foreground":"#9A9B99",
         "editorCursor.foreground": "#c07020",
         "editorWhitespace.foreground": "#505037",
         "editorIndentGuide.background": "#505037",

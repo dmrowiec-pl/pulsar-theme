@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.6] - 2023-02-23
+
+### Changed
+
+- Inlay hints background and foreground color
+
 ## [1.0.5] - 2023-01-19
 
 ### Added
