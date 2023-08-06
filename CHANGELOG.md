@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.7] - 2023-08-06
+
+### Fixed
+
+- Adjusted python boolean values color after semantic updates
+
 ## [1.0.6] - 2023-02-23
 
 ### Changed

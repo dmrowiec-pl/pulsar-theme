@@ -854,6 +854,7 @@
       // Python
       "class.builtin:python": "#B2A3BD",
       "class.decorator.builtin:python": "#DE535F",
+      "builtinConstant:python": "#E4A05C",
 
       // Rust
       "lifetime": "#D0B344",
