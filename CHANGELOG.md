@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.8] - 2023-08-24
+
+### Fixed
+
+- Adjusted C# method color after C# Dev Kit release
+
 ## [1.0.7] - 2023-08-06
 
 ### Fixed

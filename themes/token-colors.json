@@ -869,6 +869,7 @@
 
       // C#
       "member:csharp": "#FFC66D", // C# does not support declaration modifier
+      "method:csharp": "#FFC66D", // C# does not support declaration modifier
       "xmlDocCommentText": "#A5C261",
       "xmlDocCommentDelimiter": "#A5C261",
       "xmlDocCommentName": "#E4A05C",
